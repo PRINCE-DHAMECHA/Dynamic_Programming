@@ -5,4 +5,6 @@
 > - LCS (Recursion without memoization)
 > - LCS (Recursion with memoization)
 > - LCS (Top Down)
+> - Printing LCS
+> - Longest Common Substring
 
