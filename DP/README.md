@@ -7,4 +7,4 @@
 
 ## 2. LCS
 
-<b>### Refer each directory's README for more information</b>
+### Refer each directory's README for more information
