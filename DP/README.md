@@ -1,7 +1,6 @@
 # Content Information For DP
 
-> ## (i) 0/1 Knapsack
-
-> ## (ii) Unbounded Knapsack
+ ## 1. 0/1 Knapsack
+ ## 1. Unbounded Knapsack
 
 > Refer each directory's README for more information
